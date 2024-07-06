@@ -1,0 +1,22 @@
+git clone:
+
+- Creates a local copy of a remote repository (e.g., from GitHub or another server)
+- Downloads the entire repository history, including all branches and tags
+- Sets up a new Git repository on your local machine
+- Establishes a connection between the local and remote repositories
+
+Example: `git clone (link unavailable)
+
+git pull:
+
+- Retrieves new commits from a remote repository (e.g., updates from another developer)
+- Downloads and merges the changes into your local repository
+- Updates your local branches to match the remote branches
+- Requires an existing local repository (created by git clone or other means)
+
+Example: git pull origin main (assuming "origin" is the remote repository and "main" is the branch)
+
+In short:
+
+- git clone initializes a new local repository from a remote source.
+- git pull updates an existing local repository with new changes from a remote source.
