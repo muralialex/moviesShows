@@ -1,1 +1,9 @@
 Selenium
+
+
+git init
+git status
+git add .
+git remote add origin repoURL
+git commit -m "Message"
+git push -u origin Branch_name
