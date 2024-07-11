@@ -1,1 +1,3 @@
 new employee - priyanshu
+dob - 11/00//1998
+position - dev
